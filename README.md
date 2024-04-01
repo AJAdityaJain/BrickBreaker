@@ -2,7 +2,7 @@
  1Bit Arduino Brick Breaker game 
 
 
-#Uses 
+# Uses 
  SSD1306 with Hardware SPI
  Arduino Uno R3
  2x 1K Ohm
